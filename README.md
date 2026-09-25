@@ -3,6 +3,8 @@
 A Leeway mostra, num pequeno ecrã ao lado do Mac, quanto já usaste do Claude Code e do Codex e quando
 os limites voltam a zero. O ecrã também tem atalhos: tocas num botão e o Mac abre uma app ou corre um atalho.
 
+Desenvolvido por [NodeGrid.dev](https://nodegrid.dev).
+
 Este guia leva-te do download até veres o uso no ecrã. Demora uns 5 minutos.
 
 ### [⬇️ Descarregar a Leeway para Mac](https://github.com/andresousa6/leeway/releases/latest/download/Leeway-arm64.dmg)

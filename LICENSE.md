@@ -1,6 +1,6 @@
 # Licença de uso da Leeway
 
-© 2026 André Sousa. Todos os direitos reservados.
+© 2026 André Sousa — [NodeGrid.dev](https://nodegrid.dev). Todos os direitos reservados.
 
 Podes descarregar, instalar e usar a Leeway (a app para macOS e o firmware do ecrã) gratuitamente, para uso
 pessoal ou no teu trabalho. Não podes vender a Leeway, nem distribuir versões alteradas.
