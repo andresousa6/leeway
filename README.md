@@ -5,6 +5,10 @@ os limites voltam a zero. O ecrã também tem atalhos: tocas num botão e o Mac 
 
 Este guia leva-te do download até veres o uso no ecrã. Demora uns 5 minutos.
 
+### [⬇️ Descarregar a Leeway para Mac](https://github.com/andresousa6/leeway/releases/latest/download/Leeway-arm64.dmg)
+
+Última versão, para Mac com Apple Silicon. [Novidades de cada versão](https://github.com/andresousa6/leeway/releases).
+
 ## Do que precisas
 
 - Um Mac com **Apple Silicon** (M1 ou mais recente) e **macOS 15** ou mais recente.
@@ -14,8 +18,8 @@ Este guia leva-te do download até veres o uso no ecrã. Demora uns 5 minutos.
 
 ## 1. Descarregar
 
-Em [Releases](https://github.com/andresousa6/leeway-releases/releases/latest), descarrega o ficheiro
-`Leeway-<versão>-arm64.dmg` e abre-o.
+Carrega em [**Descarregar a Leeway para Mac**](https://github.com/andresousa6/leeway/releases/latest/download/Leeway-arm64.dmg). O ficheiro `Leeway-arm64.dmg` fica na pasta
+Transferências: abre-o com dois cliques.
 
 ## 2. Instalar
 
